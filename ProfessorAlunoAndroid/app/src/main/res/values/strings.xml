@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ProfessorAluno</string>
+    <string-array name="profissoes">
+        <item>Professor</item>
+        <item>Estudante</item>
+    </string-array>
+</resources>
